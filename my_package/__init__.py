@@ -1,0 +1,1 @@
+__all__ = ["my_module1"]  # import * 時只能使用my_module1
